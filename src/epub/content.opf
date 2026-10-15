@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/pauline-e-hopkins/of-one-blood</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-10-15T19:37:14Z</dc:date>
+		<meta property="dcterms:modified">2026-10-15T19:37:14Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -57,14 +57,14 @@
 		<meta property="schema:genre">Spirituality</meta>
 		<meta property="schema:abstract">A young scholar’s life spirals down a dark path after the near-death of a singer.</meta>
 		<dc:description>
-			&lt;p&gt;Attending medical school in Boston, Reuel Briggs has neither wealth nor the good looks of the upper-class white society with which he surrounds himself. He is, however, incredibly talented and has a rare gift in the psychological study of &lt;em&gt;mysticism&lt;/em&gt; and supernatural phenomenon. Even if his peers are not too keen on him, aside from the bombastic and incredibly wealthy Aubrey Livingston, they cannot help but be awed by his talent, and subsequently, call on his aid in reaching out to the minds of the sick and dying who would otherwise be lost. Though this field of mysticism is his life’s work and sole talent, it may soon be his downfall as it leads him down a dark path of secrets and discoveries.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Of One Blood&lt;/i&gt; was first published serially in &lt;i&gt;The Colored American Magazine&lt;/i&gt;, of which &lt;a href="https://standardebooks.org/ebooks/pauline-e-hopkins"&gt;Hopkins&lt;/a&gt; was the editor at the time. Written at the turn of the century, not too long after the Civil War, Hopkins explores the legacy of slavery, questions of identity, and the bounds of love and loyalty.&lt;/p&gt;
+			&lt;p&gt;Attending medical school in Boston, Reuel Briggs has neither wealth nor the good looks of the upper-class white society with which he surrounds himself. He is, however, incredibly talented, and has a rare gift in the psychological study of mysticism and supernatural phenomenon. Even if his peers aren’t too keen on him, they can’t help but be awed by his talent, and subsequently call on his aid in reaching out to the minds of the sick and dying who would otherwise be lost. Though this field of mysticism is his life’s work and sole talent, it may soon be his downfall as it leads him down a dark path of secrets and discoveries.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Of One Blood&lt;/i&gt; was first published serially in &lt;i&gt;The Colored American Magazine&lt;/i&gt;, which &lt;a href="https://standardebooks.org/ebooks/pauline-e-hopkins"&gt;Hopkins&lt;/a&gt; edited at the time. Written at the turn of the century and shortly after the Civil War, Hopkins explores the legacy of slavery, questions of identity, and the bounds of love and loyalty.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/69255</dc:source>
 		<dc:source>https://archive.org/details/HopkinsOfOneBlood</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">52746</meta>
+		<meta property="schema:educationalLevel">71.24</meta>
 		<link href="https://en.wikipedia.org/wiki/Of_One_Blood_(novel)" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -95,6 +95,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
