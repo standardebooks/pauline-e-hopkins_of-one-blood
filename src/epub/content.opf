@@ -72,7 +72,7 @@
 		<dc:creator id="author">Pauline E. Hopkins</dc:creator>
 		<meta property="file-as" refines="#author">Hopkins, Pauline E.</meta>
 		<meta property="schema:alternateName" refines="#author">Pauline Elizabeth Hopkins</meta>
-		<link href="https://en.wikipedia.org/wiki/Pauline_E._Hopkins" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Pauline_Hopkins" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n87852520.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">David Roberts</dc:contributor>
